@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\bin\Debug\net6.0\BuilderEx.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\bin\Debug\net6.0\BuilderEx.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\bin\Debug\net6.0\BuilderEx.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\bin\Debug\net6.0\BuilderEx.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\bin\Debug\net6.0\BuilderEx.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\BuilderEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\BuilderEx.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\BuilderEx.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\BuilderEx.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\BuilderEx.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\refint\BuilderEx.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\BuilderEx.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\BuilderEx.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\BuilderEx\BuilderEx\obj\Debug\net6.0\ref\BuilderEx.dll
